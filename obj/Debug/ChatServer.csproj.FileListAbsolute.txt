@@ -1,0 +1,15 @@
+D:\windows_form\ChatServer\bin\ChatServer.dll
+D:\windows_form\ChatServer\bin\ChatServer.pdb
+D:\windows_form\ChatServer\bin\ExitGamesLibs.dll
+D:\windows_form\ChatServer\bin\Photon.SocketServer.dll
+D:\windows_form\ChatServer\bin\ExitGamesLibs.pdb
+D:\windows_form\ChatServer\bin\ExitGamesLibs.xml
+D:\windows_form\ChatServer\bin\Photon.SocketServer.pdb
+D:\windows_form\ChatServer\bin\Photon.SocketServer.xml
+D:\windows_form\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\windows_form\ChatServer\obj\Debug\ChatServer.dll
+D:\windows_form\ChatServer\obj\Debug\ChatServer.pdb
+D:\windows_form\ChatServer\bin\ExitGames.Logging.Log4Net.dll
+D:\windows_form\ChatServer\bin\log4net.dll
+D:\windows_form\ChatServer\bin\ExitGames.Logging.Log4Net.pdb
+D:\windows_form\ChatServer\bin\ExitGames.Logging.Log4Net.xml
